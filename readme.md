@@ -3,8 +3,7 @@
 A simple Magisk / KernelSU module that fixes the **undetected headphone jack** issue on Unisoc devices running Android 12 and above.
 
 ## Features
-- Fixes headphone jack detection (audio failing to route to headphones when plugged in).
-- Supports Android 12+.
+- Fixes headphone jack detection (audio failing to route to headphones when plugged in) in Android 12+ ROMs.
 
 ## Installation
 1. Download the module `.zip` from this repository.
